@@ -1,0 +1,43 @@
+Log in screen:
+
+For the purposes of this demonstration your username is <User>, and your password is <password>
+
+username label + textbox,
+password label + textbox,
+
+if statement for matching in both cases
+throw exception if does not match
+
+*throw alarm if matches name of prisoner
+
+
+
+
+
+Personnel Registration Screen: Chooses prisoner or guard
+
+Radio Button for prisoner and guard,
+Next Button for next page,
+close Button for exit program
+
+
+
+Guard Registration screen: Duh
+
+Name Label + Text box
+Shift Radio Button Label + radio buttons 1,2,3 for schedule
+Rank Label + Textbox
+
+
+
+Prisoner Registration screen: guess
+
+Name Label + Text box
+Violent Radio Button y/n
+Sentence Length year Label + textbox, month label + textbox
+Gang Affiliation Radio Button 1-GigaChads, 2-Weeblets, 3-MeanGirls
+*(Have interactions based on gang.aff like rock paper scissors)
+Mugshot - Uploaded mugshots
+
+
+*Show roster at projected date. Tell short story of released prisoners lives. 
